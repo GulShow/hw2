@@ -1,4 +1,5 @@
 // Task 1
+'use strict'
 const name = 'Джон'
 const admin = name
 alert(admin)
